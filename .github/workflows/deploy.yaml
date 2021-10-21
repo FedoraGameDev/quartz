@@ -13,7 +13,7 @@ jobs:
 
       - name: Build Link Index
         #uses: FedoraGameDev/hugo-obsidian@v2.3
-        uses: FedoraGameDev/hugo-obsidian
+        uses: FedoraGameDev/hugo-obsidian@v2.4-b
         with:
           index: true
           input: content
