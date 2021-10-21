@@ -1,6 +1,8 @@
 # 🌱 Quartz
 ## v2.0
 
+Here is a simple page update.
+
 Simple second brain and [digital garden](https://jzhao.xyz/posts/digital-gardening).
 
 ## Why Quartz?
