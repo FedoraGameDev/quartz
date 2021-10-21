@@ -1,0 +1,1 @@
+[Characters](2.%20Areas/Dawn%20of%20Fruition/Characters.md)

@@ -1,0 +1,4 @@
+[NPC Schedule](2.%20Areas/Open%20Source%20Packages/NPC%20Schedule.md)
+[NPC Schedule System Prototype](1.%20Projects/NPC%20Schedule%20System%20Prototype.md)
+# Simple Task Pool
+Contains a list of all Task Pool Items available in the game. These contain time spans that represent the available start and end times. `FindTask` uses a time frame representing the start time and duration of available time to search for a task. If a task has a start time earlier than or the same as the start time in the time frame and has a duration that encompases the duration of the time frame, then the task is available to fill the request. Additionally, a context is sent for filtering and prioritizing. Once all positive results are found, they are organized by priority and the top one is returned.
