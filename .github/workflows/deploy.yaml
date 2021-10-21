@@ -12,7 +12,8 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: Build Link Index
-        uses: jackyzha0/hugo-obsidian@v2.3
+        #uses: FedoraGameDev/hugo-obsidian@v2.3
+        uses: FedoraGameDev/hugo-obsidian
         with:
           index: true
           input: content
