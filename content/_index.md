@@ -3,6 +3,11 @@
 
 Here is a simple page update.
 
+- [Dawn of Fruition](2.%20Areas/Dawn%20of%20Fruition/Dawn%20of%20Fruition.md)
+- [Characters](2.%20Areas/Dawn%20of%20Fruition/Characters.md)
+- [NPC Schedule](2.%20Areas/Open%20Source%20Packages/NPC%20Schedule.md)
+- [Video Editing](2.%20Areas/Video%20Editing.md)
+
 Simple second brain and [digital garden](https://jzhao.xyz/posts/digital-gardening).
 
 ## Why Quartz?
